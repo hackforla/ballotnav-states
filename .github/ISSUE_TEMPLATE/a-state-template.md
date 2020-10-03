@@ -11,18 +11,19 @@ assignees: ''
 The database or data has some formatting or other issues that need to be resolved before it can be imported.
 
 ### Action Items
-
 - [ ] Add the following columns to you spreadsheet
-   - [ ] Display_notes
-   - [ ] Where
-   - [ ] Start Date
-   - [ ] Accessibility
+   - [ ] display_notes
+   - [ ] where
+   - [ ] start_date
+   - [ ] accessibility
 - [ ] Delete the following fields
-   - [ ] Field 23
    - [ ] latitude
    - [ ] longitude
    - [ ] social
    - [ ] state and counties and county reps copy
+- [ ] Rename the following fields
+   - [ ] Field 23 to location_name
+   - [ ] validate_url to source_data
 - [ ] Change the hour format from 
 MON - FRI: 7:30 AM - 12:00 PM, 1:00 PM - 4:30 PM 
 to following convention (removing any info about days they are closed e.g. closed sat and sun, unless it refers to a specific date they are closed):
