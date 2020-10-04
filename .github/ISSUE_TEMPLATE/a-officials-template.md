@@ -13,7 +13,10 @@ The database or data has some formatting or other issues that need to be resolve
 ### Action Items
 - [ ] Data Collection Design
    - [ ] Review Secretary of State Website
-   - [ ] Call First County
+   - [ ] Call a County starting from the first until you reach one that can validate the data with you.
+      - [ ] Checking the data that we have is correct
+      - [ ] Gathering data for fields that are empty
+      - [ ] Asking if there is anything else we should know
    - [ ] Update Location Validation Test Sheet
    - [ ] Edit the issue Action Items to reflect findings
 - [ ] Data Scientist/Scrapers
