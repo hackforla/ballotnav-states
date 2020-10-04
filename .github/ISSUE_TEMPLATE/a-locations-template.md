@@ -44,7 +44,7 @@ Tuesday:9:00AM-3:00PM;Thursday:9:00AM-3:00PM or Tuesday:9:00-15:00;Thursday:9:00
    - address_1 = Street name and address #
    - address_2 = suite # or room #, etc
    - city = city name
-   - state_2 = two letter abbreviation for the address (for some states the location is in a different state than the voting district (crazy I know.  But this is why there is a state field seperate which is supposed to be the state spelled out and that is the jurisdiction not the physical location)
+   - states = state field will be the state spelled out, and state_2 will be the two letter abbreviation. For the address, need two-letter abbreviations. For some states, the location is in a different state than the voting district (crazy I know.  But this is why there is a state field separate which is supposed to be the state spelled out and that is the jurisdiction, not the physical location)
 
 
 ### Resources/Instructions
